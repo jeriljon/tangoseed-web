@@ -8,7 +8,7 @@ function Banner() {
     <div className={styles.banner}>
       <div className={styles.textContent}>
         <div className={styles.title}>TANGOSEED</div>
-        <div className={styles.caption}>Transform Predict Enpower</div>
+        <div className={styles.caption}>Transform Predict Empower</div>
       </div>
       <div className={styles.imageContainer}>
         <img src={bannerImage} alt="Banner" className={styles.bannerImage} />
