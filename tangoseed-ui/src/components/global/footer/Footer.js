@@ -6,7 +6,7 @@ function Footer() {
     <footer className="footer">
       <div className="title">TANGOSEED</div>
       <div className="content">
-        © Copyright Tangoseed 2024 All rights reserved. For enquiries, contact jeril@tangoseed.com
+        © Copyright Tangoseed 2024. All rights reserved. Email: info@tangoseed.com Phone:+1(617)-431-8370
       </div>
     </footer>
   );
