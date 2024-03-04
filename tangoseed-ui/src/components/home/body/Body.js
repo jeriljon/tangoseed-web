@@ -13,8 +13,8 @@ const Body = () => {
                     <h3><strong>Digital Marketing</strong>: Crafting Future-Ready Strategies</h3>
                     <p>Revolutionize your marketing efforts with AI-driven solutions that offer:</p>
                     <ul>
-                        <li>Enhanced customer insights</li>
-                        <li>Targeted content delivery</li>
+                        <li>Enhanced customer insights using Data Science</li>
+                        <li>Targeted content delivery using Deep Learning Models</li>
                         <li>Optimized advertising campaigns</li>
                     </ul>
                 </li>
